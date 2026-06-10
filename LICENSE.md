@@ -1,4 +1,4 @@
-# 
+# VIP AI Plagiarism Checker 模板。集成 数据可视化 和 AI伦理，性能最大化。
 
 
 
